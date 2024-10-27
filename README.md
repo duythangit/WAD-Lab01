@@ -32,3 +32,8 @@ project/ (ví dụ lab01/)
 |--index.html (tệp mã HTML chính của trang web)
 |--README.md (tệp này có định dạng markdown)
 ```
+
+## KẾT QUẢ BÀI LAB
+
+![](lab02.png)
+![](lab01.png)
